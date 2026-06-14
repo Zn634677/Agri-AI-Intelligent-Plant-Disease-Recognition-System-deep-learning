@@ -68,7 +68,7 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
-model = load_model(r"D:\saved_models\my_model.h5")
+model = load_model("https://drive.google.com/file/d/1fHMVrrJkxC_xlYLOIq-gg6Ca3dX_Rqbf/view?usp=drive_link")
 CLASS_NAMES = [
    "Apple___Apple_scab",
    "Apple___Black_rot", 
