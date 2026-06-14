@@ -1,0 +1,192 @@
+{
+"Apple - Apple scab": {
+"description": "مرض فطري يسبب بقع داكنة على أوراق وثمار التفاح",
+"treatment": "رش مبيد فطري مثل مانكوزيب أو كابتان كل 7-10 أيام",
+"prevention": "إزالة الأوراق المصابة وتحسين التهوية"
+},
+"Apple - Black rot": {
+"description": "مرض فطري يؤدي إلى تعفن الثمار وظهور بقع سوداء",
+"treatment": "استخدام مبيد فطري مناسب مثل Thiophanate-methyl",
+"prevention": "التخلص من الثمار المصابة وتعقيم الأدوات"
+},
+"Apple - Cedar apple rust": {
+"description": "مرض فطري يسبب بقع صفراء وبرتقالية على الأوراق",
+"treatment": "رش مبيدات فطرية مثل Myclobutanil",
+"prevention": "إزالة النباتات العائلة القريبة مثل العرعر"
+},
+"Apple - سليم": {
+"description": "النبات سليم ولا يوجد به أمراض",
+"treatment": "لا يحتاج علاج",
+"prevention": "الحفاظ على الري والتسميد الجيد"
+},
+"Blueberry - سليم": {
+"description": "النبات سليم",
+"treatment": "لا يحتاج علاج",
+"prevention": "الاهتمام بالتربة الحمضية والري المناسب"
+},
+"Cherry (including sour) - Powdery mildew": {
+"description": "مرض فطري يظهر كطبقة بيضاء على الأوراق",
+"treatment": "استخدام الكبريت أو مبيدات فطرية مناسبة",
+"prevention": "تحسين التهوية وتقليل الرطوبة"
+},
+"Cherry (including sour) - سليم": {
+"description": "النبات سليم",
+"treatment": "لا يحتاج علاج",
+"prevention": "العناية الدورية"
+},
+"Corn (maize) - Cercospora leaf spot Gray leaf spot": {
+"description": "بقع رمادية طويلة على الأوراق",
+"treatment": "رش مبيد فطري مثل Azoxystrobin",
+"prevention": "زراعة أصناف مقاومة وتدوير المحاصيل"
+},
+"Corn (maize) - Common rust": {
+"description": "بثرات بنية أو حمراء على الأوراق",
+"treatment": "استخدام مبيد فطري مناسب",
+"prevention": "اختيار أصناف مقاومة"
+},
+"Corn (maize) - Northern Leaf Blight": {
+"description": "بقع طويلة رمادية على الأوراق",
+"treatment": "رش مبيد فطري مثل Propiconazole",
+"prevention": "تدوير المحاصيل"
+},
+"Corn (maize) - سليم": {
+"description": "النبات سليم",
+"treatment": "لا يحتاج علاج",
+"prevention": "رعاية جيدة"
+},
+"Grape - Black rot": {
+"description": "مرض يسبب بقع داكنة على الأوراق وتعفن الثمار",
+"treatment": "رش مبيد فطري مثل Mancozeb",
+"prevention": "إزالة الأجزاء المصابة"
+},
+"Grape - Esca (Black Measles)": {
+"description": "مرض يؤدي إلى بقع سوداء على الأوراق والثمار",
+"treatment": "لا يوجد علاج فعال، يتم إزالة النبات المصاب",
+"prevention": "تعقيم الأدوات وتجنب الجروح"
+},
+"Grape - Leaf blight (Isariopsis Leaf Spot)": {
+"description": "بقع بنية على الأوراق",
+"treatment": "استخدام مبيدات فطرية مناسبة",
+"prevention": "تحسين التهوية"
+},
+"Grape - سليم": {
+"description": "النبات سليم",
+"treatment": "لا يحتاج علاج",
+"prevention": "العناية المستمرة"
+},
+"Orange - Haunglongbing (Citrus greening)": {
+"description": "مرض بكتيري خطير يسبب اصفرار الأوراق",
+"treatment": "لا يوجد علاج، يتم إزالة الأشجار المصابة",
+"prevention": "مكافحة الحشرات الناقلة"
+},
+"Peach - Bacterial spot": {
+"description": "بقع بكتيرية على الأوراق والثمار",
+"treatment": "استخدام مبيدات نحاسية",
+"prevention": "تجنب الري الزائد"
+},
+"Peach - سليم": {
+"description": "النبات سليم",
+"treatment": "لا يحتاج علاج",
+"prevention": "رعاية جيدة"
+},
+"Pepper, bell - Bacterial spot": {
+"description": "بقع داكنة على الأوراق",
+"treatment": "استخدام مبيد نحاسي",
+"prevention": "تجنب الرطوبة"
+},
+"Pepper, bell - سليم": {
+"description": "النبات سليم",
+"treatment": "لا يحتاج علاج",
+"prevention": "العناية الجيدة"
+},
+"Potato - Early blight": {
+"description": "بقع بنية دائرية على الأوراق",
+"treatment": "رش Chlorothalonil",
+"prevention": "تدوير المحاصيل"
+},
+"Potato - Late blight": {
+"description": "مرض خطير يسبب تعفن سريع",
+"treatment": "استخدام مبيد Metalaxyl",
+"prevention": "تقليل الرطوبة"
+},
+"Potato - سليم": {
+"description": "النبات سليم",
+"treatment": "لا يحتاج علاج",
+"prevention": "رعاية مناسبة"
+},
+"Raspberry - سليم": {
+"description": "النبات سليم",
+"treatment": "لا يحتاج علاج",
+"prevention": "العناية الجيدة"
+},
+"Soybean - سليم": {
+"description": "النبات سليم",
+"treatment": "لا يحتاج علاج",
+"prevention": "رعاية مناسبة"
+},
+"Squash - Powdery mildew": {
+"description": "طبقة بيضاء على الأوراق",
+"treatment": "استخدام الكبريت",
+"prevention": "تحسين التهوية"
+},
+"Strawberry - Leaf scorch": {
+"description": "احتراق حواف الأوراق",
+"treatment": "إزالة الأوراق المصابة",
+"prevention": "تجنب الإجهاد المائي"
+},
+"Strawberry - سليم": {
+"description": "النبات سليم",
+"treatment": "لا يحتاج علاج",
+"prevention": "رعاية جيدة"
+},
+"Tomato - Bacterial spot": {
+"description": "بقع داكنة على الأوراق",
+"treatment": "مبيد نحاسي",
+"prevention": "تجنب الرطوبة"
+},
+"Tomato - Early blight": {
+"description": "بقع بنية على الأوراق",
+"treatment": "Chlorothalonil",
+"prevention": "عدم ري الأوراق"
+},
+"Tomato - Late blight": {
+"description": "مرض خطير سريع الانتشار",
+"treatment": "مبيد نحاسي",
+"prevention": "تقليل الرطوبة"
+},
+"Tomato - Leaf Mold": {
+"description": "بقع صفراء على الأوراق",
+"treatment": "مبيد فطري",
+"prevention": "تحسين التهوية"
+},
+"Tomato - Septoria leaf spot": {
+"description": "بقع صغيرة رمادية",
+"treatment": "مبيد فطري",
+"prevention": "إزالة الأوراق المصابة"
+},
+"Tomato - Spider mites Two-spotted spider mite": {
+"description": "آفة تسبب اصفرار الأوراق",
+"treatment": "مبيد حشري",
+"prevention": "رش ماء وتقليل الجفاف"
+},
+"Tomato - Target Spot": {
+"description": "بقع دائرية كبيرة",
+"treatment": "مبيد فطري",
+"prevention": "تحسين التهوية"
+},
+"Tomato - Tomato Yellow Leaf Curl Virus": {
+"description": "فيروس يسبب تجعد الأوراق",
+"treatment": "لا يوجد علاج",
+"prevention": "مكافحة الذبابة البيضاء"
+},
+"Tomato - Tomato mosaic virus": {
+"description": "فيروس يسبب تلون غير طبيعي",
+"treatment": "لا يوجد علاج",
+"prevention": "تعقيم الأدوات"
+},
+"Tomato - سليم": {
+"description": "النبات سليم",
+"treatment": "لا يحتاج علاج",
+"prevention": "رعاية جيدة"
+}
+}
